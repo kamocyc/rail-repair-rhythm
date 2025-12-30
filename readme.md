@@ -1,5 +1,7 @@
 Rail Repair Rhythm
 
+![alt text](readme_image.png)
+
 ゲーム紹介
 レールが壊れているところをタイミングよくたたいて直すゲーム。
 
