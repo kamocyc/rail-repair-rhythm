@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# 再配布禁止なので除外
+パッ.wav
+
 # External asssets
 # /Assets/FastScriptReload/
 # /Assets/HairPack/

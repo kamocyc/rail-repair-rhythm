@@ -11,3 +11,6 @@ Rail Repair Rhythm
 スペースキーで操作
 
 https://unityroom.com/games/rail_repair_rhythm
+
+BGM: PeriTue https://peritune.com/blog/2025/11/12/whiteveil_streets/
+効果音: 効果音ラボ パッ https://soundeffect-lab.info/sound/anime/
